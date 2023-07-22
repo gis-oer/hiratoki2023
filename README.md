@@ -38,7 +38,7 @@ h3{
 - 講師：[小口 高](http://oguchaylab.csis.u-tokyo.ac.jp/members.html)、[飯塚浩太郎](https://kiizuka.wixsite.com/website/)、[矢澤 優理子](https://yurikoyazawa.wixsite.com/yazawayuriko)、[山内啓之](https://researchmap.jp/hyamauchi/)（東京大）、[小倉拓郎](https://www.geoguraphy.com/)（兵庫教育大/東京大）ほか
 - 内容：地理情報システム（GIS），ドローン，3Dプリンター、VRの利活用・体験[ ※概要はこちらです。](https://www.jsps.go.jp/file/storage/kaken_hirameki_23/23ht0050.pdf) 
 
-<br>昼休憩時にはランチタイムトークとして、参加自由のショートレクチャー「高校地理最前線！〜地理総合・地理探究と探究学習の相互環流〜（講師：桐蔭学園校/東京大　石橋 生 教諭/協力研究員）」を予定しています。
+<br>昼休憩時にはランチタイムトークとして、参加自由のショートレクチャー「高校地理最前線！〜地理総合・地理探究と探究学習の相互環流〜（講師：桐蔭学園高等学校/東京大　石橋 生 教諭/協力研究員）」を予定しています。
 
 
 ## <a name="2"></a>持ち物、服装
