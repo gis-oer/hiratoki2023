@@ -20,7 +20,7 @@ h3{
 
 
 # デジタル地図とドローン、VR、3Dプリンタで自然環境と人間生活を調べよう！開催概要
-ひらめき☆ときめきサイエンス「デジタル地図とドローン、VR、3Dプリンタで自然環境と人間生活を調べよう！」の開催概要、注意事項についてまとめたページです。本ページは申込者への連絡を想定したもので、新たに参加者を募集するためのページではありません。（2023/7/22更新）
+ひらめき☆ときめきサイエンス「デジタル地図とドローン、VR、3Dプリンタで自然環境と人間生活を調べよう！」の開催概要、注意事項についてまとめたページです。本ページは申込者への連絡を想定したもので、新たに参加者を募集するためのページではありません。（2023/7/27更新）
 
 - [開催概要](#1)
 - [持ち物](#2)
@@ -28,7 +28,7 @@ h3{
 - [注意事項](#4)
 - [Q&A](#5)
 
-<div class="img"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC7JkpKH4XRUvx0N8AdWwig4x5dUoVVxrw3g0g8sCqljxMjdxicqoHS1a7Vqyw3TUCk-Q7bTX7jPGi3mhxvfnphBfwy_x2NZU9QOVRnyowEg_IA22tTQBvLZgO08Fns5hBXE4aFq6UUogeRziLZxwPLAW3nqwVMizeu-yqtlV9YAcvX0YpiyS3imLQ1g/s1446/hiratoki_poster_2023.png" width=300px></div>
+<div class="img"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF9wjMNtlsyImw5dkDg8dAho1z-R8XWgUvr9zkeXXg_KtEbUveLopCCIE_47kgnbaBwltG96diap9yC1LMk5c28AaOFVNIgdLzUc9a5aSFf0VR9Y_Y-oLfoxmQovJ56zFwbj7aWHURJG8xYLLUVe3Th49GTtlm59lcIqW9TTA3VdjREiBFPQdVmU7O-Rhc/s1444/hiratoki_poster_2023.jpg" width=300px></div>
 
 ## <a name="1"></a>開催概要
 
@@ -73,7 +73,7 @@ h3{
 |コロナ対策|当日は、換気やアルコール消毒を徹底します。アルコールによる肌のかぶれなどがある方は、各自別の手段の感染対策をご用意ください。|
 
 ## <a name="5"></a>Q＆A
-以下は過去に、実際にあった質問と回答です。本年度も全員と関連する質問をいただいた場合は、質問の概要とその回答を順次追加します。以下にない質問は、h.yamauchi[at]csis.u-tokyo.ac.jpへお願いいたします（[at]は@へ置き換えてください）。
+以下は過去に、実際にあった質問と回答です。本年度も全員と関連する質問をいただいた場合は、質問の概要とその回答を順次追加します。以下にない質問は、h.yamauchi[at]csis.u-tokyo.ac.jpへお願いいたします（[at]は@へ置き換えてください）。原則、電話による質問対応はできかねますため、お問い合わせの場合はメールでの連絡をお願いいたします。
 
 ### Q.同伴者（保護者など）は、プログラムを見学できますか？
 A.今年度は、コロナ対策で人数制限をしているため、事前に参加希望をした同伴者のみ参加可能です。同伴者の登録の有無を確認、変更したい場合はお問い合わせください。
@@ -89,3 +89,6 @@ A. 当日は、構内のすべての学食が空いていません。参加者�
 
 ### Q.当日のグループ分けはどうなりますか？
 A. 実習は機材の関係上、3~4のグループに分けて順番に実施します。グループ分けは**学年**を基準に行います。同学年で学校が同じ場合はなるべく同じグループになるように配慮します（確約はできません。また、新たな友人を増やしたいなどの理由で、これを避けてほしい場合は、お問合せください。）学年が離れている場合は、講義の展開の関係で、同じグループにはなれません（介助・補助が必要な場合を除く、配慮が必要な場合はお問い合わせください）。
+
+### Q.当日に参加者（同伴者含む）が利用できるWi-Fiはありますか？
+A. 設備やセキュリティ対策などの点で、イベント以外の用途でWi-Fiを利用いただくことはできません。参加者向けにWi-FiのIDとPASSを配布することもありません。
